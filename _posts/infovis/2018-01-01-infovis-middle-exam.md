@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 信息可视化F组期中专案<--
 date: 2017-12-31 17:49:20 +0300
 description: 城乡收入差距与相关因素研究
