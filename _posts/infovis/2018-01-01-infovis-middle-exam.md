@@ -62,7 +62,7 @@ categories:
 				 经济因 素 、 城市化因 素 、 产业结构因素和人力资本因素 。
 				考察其对城乡收入差距的影响程度。</p>
 
-				<iframe src="https://public.tableau.com/views/_16012/sheet8?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true" width="1316" height="860"></iframe>
+				<iframe src="https://public.tableau.com/views/_16012/sheet8?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true" width="100%" height="860"></iframe>
 
 			</section>
 
@@ -74,7 +74,7 @@ categories:
 					<br>
 				在经济水平与泰尔指数之间的关系中，P值0.0107984，大于0.05，不呈相关关系，所以生产总值越高的省份泰尔指数不一定低或越高。
 				</p>
-				<iframe src="https://public.tableau.com/views/4_478/sheet2_1?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true" width="1316" height="860"></iframe>
+				<iframe src="https://public.tableau.com/views/4_478/sheet2_1?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true" width="100%" height="860"></iframe>
 
 			</section>
 
@@ -82,14 +82,14 @@ categories:
 				<p>2.城市化因素 ： 借鉴万广华（ 2 0 1 3 ） 研究城镇化与 不均等 之间 关 系 时， 对 城镇化选用城 乡 人 口 比作为考察指标 。
 				<br>可以看到多数省份城市化水平在平均线以下，且仅有东部省份具有高城市化水平，在高城市化之间的城市差距也非常的大。
 				由城市化水平与泰尔指数的散点图可以看到，城市化水平越高，泰尔指数越小。其趋势线的P值<.0001 ，达到显著，由此可知二者具有相关关系。</p>
-				<iframe src="https://public.tableau.com/views/_16012/sheet10?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true" width="1316" height="860"></iframe>
+				<iframe src="https://public.tableau.com/views/_16012/sheet10?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true" width="100%" height="860"></iframe>
 			</section>
 
 			<section id="content5" class="tab-content">
 				<p>3.产业结构情况： 农产业发展水平 城市非农产业产值占总产值比重。
 				生产总值中，西部地区的农业结构占比最大，其中新疆维吾尔族自治区占比最大，是0.2165，东部地区农业结构占比较小，其中，占比最小的为上海仅有0.0089.
 				农业生产结构占比越大的城市，其泰尔指数越高。其P值为.0002991，达到显著。</p>
-				<iframe src="https://public.tableau.com/views/4_478/sheet6?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true"width="1316" height="760" ></iframe>
+				<iframe src="https://public.tableau.com/views/4_478/sheet6?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true"width="100%" height="760" ></iframe>
 			</section>
 
 			<section id="content6" class="tab-content">
@@ -98,7 +98,7 @@ categories:
 				东部的北京的受教育人数是最多的达到了46.619K，而青海的人数最少仅有9.104K，二者之比达到5倍之多。其余多数城市也为达到平均线。
 				在受教育人数与泰尔指数的散点图中，受高等教育人数越多的城市，泰尔指数越低，如北京上海。
 				<br>其P值<.0001 达到显著，二者成相关关系。</p>
-				<iframe src="https://public.tableau.com/views/_16012/sheet7?:embed=y&:display_count=yes&publish=yes&publish=yesDashboard1?:showVizHome=no&:embed=true"width="1316" height="760" ></iframe>
+				<iframe src="https://public.tableau.com/views/_16012/sheet7?:embed=y&:display_count=yes&publish=yes&publish=yesDashboard1?:showVizHome=no&:embed=true"width="100%" height="760" ></iframe>
 
 			</section>
 			<section id="content1" class="tab-content">
@@ -107,7 +107,7 @@ categories:
 			增长高于城市，但两者，增长率开始放缓。
 			<br>
 			由该表得知，虽然农村收入增长率在多数年间高于城市收入增长率，但是城乡收入差距还在不断增大。</p>
-				<iframe src="http://public.tableau.com/views/_15747/1?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true" width="1316" height="760"></iframe>
+				<iframe src="http://public.tableau.com/views/_15747/1?:embed=y&:display_count=yes&publish=yesDashboard1?:showVizHome=no&:embed=true" width="100%" height="760"></iframe>
 
 			</section>
 			<section id="content7" class="tab-content">
